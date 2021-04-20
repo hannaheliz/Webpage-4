@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: #e1d8c1;
+}
+
+
+#container {
+  position: relative;
+  top: 100px;
+  width: 500px;
+}
+
+#content-box {
+  background: #FFF;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-family: "Courier New"
+}
+
+ul {
+  position: relative;
+  list-style-type: none;
+  padding: 1.5px;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 19px;
+}
+
+a {
+  text-decoration: none;
+  background: #FFF;
+  padding: 15px;
+  font-family: "Courier New"
+}
+
+a:hover{
+  background: #fcf7e9;
+}
+
+a:link {
+  color: #aa477c;
+}
