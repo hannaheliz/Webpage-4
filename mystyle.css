@@ -26,6 +26,25 @@ ul {
   justify-content: left;
   margin-bottom: 19px;
 }
+#box1{
+  margin-left: 170px;
+}
+#box2{
+  margin-left: 170px;
+}
+#box3{
+  margin-left: 170px;
+}
+#box4{
+  margin-left: 170px;
+}
+#box5{
+  margin-right: 90px;
+  margin-left: 170px;
+}
+#box6 {
+  margin-left: 170px;
+}
 
 a {
   text-decoration: none;
